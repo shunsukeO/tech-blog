@@ -1,0 +1,6 @@
+.sidebar {
+  height: 90vh;
+  width: 10vw;
+  border: solid;
+  box-sizing: border-box;
+}
